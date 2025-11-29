@@ -4,7 +4,7 @@ pubDate: '18 Nov 2025'
 repo: 'hhttps://github.com/jarooda/md'
 demo: 'https://md.jaluwibowo.id/'
 stacks: ['Vue.js', 'Typescript']
-status: 'completed'
+status: 'in-progress'
 category: 'web-app'
 platform: 'web'
 ---
