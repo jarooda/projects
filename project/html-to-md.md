@@ -4,7 +4,7 @@ pubDate: '29 Nov 2025'
 repo: 'https://github.com/jarooda/html-to-md'
 demo: 'https://html-to-md.jaluwibowo.id/'
 stacks: ['Vue.js', 'Typescript']
-status: 'completed'
+status: 'in-progress'
 category: 'web-app'
 platform: 'web'
 ---
