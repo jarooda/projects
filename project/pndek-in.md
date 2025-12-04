@@ -4,7 +4,7 @@ pubDate: 'Feb 23 2024'
 repo: 'https://pndek.in/gh'
 demo: 'https://pndek.in/aja'
 stacks: ['Remix', 'React', 'Express', 'Postgresql', 'Safe Browsing API', 'IP Geolocation API']
-status: 'completed'
+status: 'active'
 category: 'web-app'
 platform: 'web'
 ---

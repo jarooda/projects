@@ -4,7 +4,7 @@ pubDate: '10 Oct 2023'
 repo: 'https://github.com/jarooda/jarooda.github.io'
 demo: 'https://www.jaluwibowo.id/'
 stacks: ['Astro', 'Tailwind', 'GSAP', 'Express', 'AWS', 'cypress', 'Nodemailer']
-status: 'completed'
+status: 'active'
 category: 'web-app'
 platform: 'web'
 ---

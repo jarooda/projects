@@ -4,7 +4,7 @@ pubDate: "10 Jun 2024"
 repo: "https://github.com/jarooda/string-randomify"
 demo: "https://www.npmjs.com/package/string-randomify"
 stacks: ["Typescript", "Vitest"]
-status: "completed"
+status: "active"
 category: "library"
 platform: "multi-platform"
 ---
