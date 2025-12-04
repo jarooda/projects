@@ -2,7 +2,7 @@
 title: "jalutils"
 pubDate: "4 Dec 2025"
 repo: "https://github.com/jarooda/jalutils"
-demo: "https://www.npmjs.com/package/jalutils"
+demo: "https://jalutils.jaluwibowo.id"
 stacks: ["Typescript", "Vitest"]
 status: "active"
 category: "library"
