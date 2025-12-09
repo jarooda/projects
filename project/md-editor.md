@@ -7,6 +7,7 @@ stacks: ['Vue.js', 'Typescript']
 status: 'completed'
 category: 'web-app'
 platform: 'web'
+links: ['jalutils']
 ---
 
 A fast, minimalist Markdown editor with live preview, mobile-friendly layout, dark mode, and CodeMirror 6 editing. It uses Prism for code block highlighting and persists your content locally so you can pick up where you left off.

@@ -7,6 +7,7 @@ stacks: ['Remix', 'React', 'Express', 'Postgresql', 'Safe Browsing API', 'IP Geo
 status: 'active'
 category: 'web-app'
 platform: 'web'
+links: ['pndek.in Telegram Bot', 'pndek.in Chrome Extension', 'string-randomify']
 ---
 
 pndek.in is a web app that can shorten your links and manage URLs. You can create a shortened link either by logging in or without logging in to the web app. Using <mark>Safe Browsing API</mark> when creating a short link ensures that malicious links would not be created. Utilizing <mark>IP Geolocation API</mark> when redirecting short links makes the <mark>analytics</mark> more <mark>robust</mark> and <mark>comprehensive</mark>.

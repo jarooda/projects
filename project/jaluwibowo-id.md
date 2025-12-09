@@ -7,6 +7,7 @@ stacks: ['Astro', 'Tailwind', 'GSAP', 'Express', 'AWS', 'cypress', 'Nodemailer']
 status: 'active'
 category: 'web-app'
 platform: 'web'
+links: ['jalutils', 'Slidev Repo Template']
 ---
 
 Personal Website & Blog to share my understanding about software development. #ContactMe form using <mark>nodemailer</mark> to notify incoming message through this website.
