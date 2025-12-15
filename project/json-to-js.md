@@ -7,6 +7,7 @@ stacks: ['Vue.js']
 status: 'completed'
 category: 'web-app'
 platform: 'web'
+links: ['jalutils']
 ---
 
 JSON to Javascript Converter, to convert a JSON into simple object. Have an options to set indent spacing, change quote from doublequote into single quote, and change case for <mark>all object key(s)</mark>.
