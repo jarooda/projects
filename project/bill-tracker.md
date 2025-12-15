@@ -4,6 +4,7 @@ pubDate: '21 Des 2025'
 repo: 'https://github.com/jarooda/bill-tracker'
 demo: 'https://bills.jaluwibowo.id'
 stacks: ['Nuxt', 'Supabase', 'Vue', 'Vercel']
+links: ['jalutils']
 status: 'completed'
 category: 'web-app'
 platform: 'web'
