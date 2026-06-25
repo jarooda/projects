@@ -4,7 +4,7 @@ pubDate: '21 Aug 2022'
 repo: 'https://pndek.in/json-js-gh'
 demo: 'https://pndek.in/json-js'
 stacks: ['Vue.js']
-status: 'completed'
+status: 'abandoned'
 category: 'web-app'
 platform: 'web'
 links: ['jalutils']

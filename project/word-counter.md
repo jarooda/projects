@@ -4,7 +4,7 @@ pubDate: 'Dec 26 2020'
 repo: 'https://github.com/jarooda/word-count'
 demo: 'https://word-count-kohl.vercel.app/'
 stacks: ['React', 'Tailwind']
-status: 'completed'
+status: 'abandoned'
 category: 'web-app'
 platform: 'web'
 ---
