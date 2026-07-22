@@ -4,7 +4,7 @@ pubDate: '24 Nov 2025'
 repo: 'https://github.com/jarooda/dice'
 demo: 'https://dice.jaluwibowo.id/'
 stacks: ['Vue.js', 'Typescript', 'Three.js']
-status: 'completed'
+status: 'abandoned'
 category: 'web-app'
 platform: 'web'
 links: ['jalutils']
