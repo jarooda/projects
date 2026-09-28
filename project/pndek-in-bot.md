@@ -7,6 +7,7 @@ stacks: ['Telegram Bot', 'Express']
 status: 'completed'
 category: 'tool'
 platform: 'server'
+featured: true
 ---
 
 pndek.in <mark>Telegram bot</mark> to help user shorten an URL without opening a browser.

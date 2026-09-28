@@ -6,6 +6,7 @@ stacks: ["pnpm", "hygen"]
 status: "completed"
 category: "library"
 platform: "web"
+featured: true
 ---
 
 About

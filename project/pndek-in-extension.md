@@ -7,6 +7,7 @@ stacks: ['Javascript', 'Chrome']
 status: 'completed'
 category: 'extension'
 platform: 'browser-extension'
+featured: true
 ---
 
 pndek.in <mark>Chrome Extension</mark> to help user shorten an URL using chrome extension.

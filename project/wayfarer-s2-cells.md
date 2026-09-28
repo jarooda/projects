@@ -8,6 +8,7 @@ status: 'completed'
 category: 'extension'
 platform: 'browser-extension'
 links: ['jlds']
+featured: true
 ---
 
 A browser extension that overlays S2 cells (Level 14 & Level 17) directly on the Niantic Wayfarer map.
